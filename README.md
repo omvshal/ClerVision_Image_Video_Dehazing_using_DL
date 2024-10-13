@@ -6,14 +6,8 @@ This project involves the use of deep learning techniques for image and video de
 Project Structure
 Dataset
 Methodologies
-Prerequisites
-Installation
-Training the Model
-Evaluation
-Results
-Future Work
-References
-Project Structure
+
+## Project Structure
 ├── data/
 │   ├── clear/           
 │   ├── hazy/           
@@ -40,7 +34,7 @@ For images: Use RESIDE dataset.
 LINK: https://www.kaggle.com/datasets/balraj98/indoor-training-set-its-residestandard
 For videos: Use Real Haze Video Database
 LINK: https://jingnantes.github.io/acmmm21-youku-v1k/
-Methodologies
+## Methodologies
 1. Image Dehazing:
 Model: U-Net architecture.
 Input: Hazy images.
